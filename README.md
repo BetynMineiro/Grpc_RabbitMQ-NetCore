@@ -1,1 +1,0 @@
-# Grpc_RabbitMQ-NetCore
